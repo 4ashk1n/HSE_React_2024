@@ -1,0 +1,7 @@
+diagnosticMessages.*
+lib.*
+node_modules/
+*.xml
+*.js
+*.iml
+*.json
